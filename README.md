@@ -73,4 +73,8 @@
 
 Amosa Yang（[twitch.tv/amosa2001](https://www.twitch.tv/amosa2001)）
 
+本插件與配套的外部工具程式，由 Amosa Yang 與 Claude Opus（Anthropic 的 AI）協作完成。
+
+> **若您對 AI 輔助開發的軟體有疑慮，請勿下載使用。** 作者已盡可能完整地處理安全性問題，詳見[安全性與隱私](#安全性與隱私)。
+
 本插件為個人製作，與 Blizzard Entertainment 無關。
